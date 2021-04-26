@@ -1,11 +1,11 @@
 const fs = require("fs");
 
-const nirKodegruppe = 15;
-const socioKodegruppe = 25023;
+const nirKodegruppe = 8;
+const socioKodegruppe = 25026;
 const lopenummer = 51;
 
-const result = JSON.parse(fs.readFileSync("./nirkoder2021.json", "utf-8")).Result
-const filtered = result.filter(nir => nir.Kodeverk === nirKodegruppe)
+const result = JSON.parse(fs.readFileSync("./nirkoder2021.json", "utf-8")).Result;
+const filtered = result.filter(nir => nir.Kodeverk === nirKodegruppe);
 
 filtered.forEach((nirkode, i) => {
 	const { Navn, Kode, Beskrivelse } = nirkode;
