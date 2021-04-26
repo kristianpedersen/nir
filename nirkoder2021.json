@@ -1,0 +1,1156 @@
+{
+	"Version": "1.0",
+	"StatusCode": 200,
+	"Result": [{
+			"Kodeverk": 1,
+			"Kode": "RNORSK",
+			"Navn": "Rett norsk og samfunnskunnskap"
+		}, {
+			"Kodeverk": 1,
+			"Kode": "PNORSK",
+			"Navn": "Plikt norsk og samfunnskunnskap"
+		}, {
+			"Kodeverk": 1,
+			"Kode": "RPNORSK",
+			"Navn": "Rett og plikt norsk og samfunnskunnskap"
+		}, {
+			"Kodeverk": 1,
+			"Kode": "RPINTRO",
+			"Navn": "Rett og plikt til introduksjonsprogram"
+		}, {
+			"Kodeverk": 1,
+			"Kode": "KINTRO",
+			"Navn": "Kan tilbys introduksjonsprogram"
+		}, {
+			"Kodeverk": 1,
+			"Kode": "PASYL",
+			"Navn": "Opplæring for asylsøkere"
+		}, {
+			"Kodeverk": 1,
+			"Kode": "KKVAL",
+			"Navn": "Kvalifisering i mottak"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "KAT_BEREGNET",
+			"Navn": "Kategori beregnet",
+			"Beskrivelse": "Kategori beregnet",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "ENDR_ERDOD",
+			"Navn": "Opplysning fra UDB/DSF om person er død",
+			"Beskrivelse": "Opplysning fra UDB/DSF om person er død",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "ENDR_ERUTVIST",
+			"Navn": "Ikke lenger gyldig oppholdstillatelse",
+			"Beskrivelse": "Ikke lenger gyldig oppholdstillatelse.",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "ENDR_STB_MVEDTAK",
+			"Navn": "Innvilget norsk statsborgerskap",
+			"Beskrivelse": "Innvilget norsk statsborgerskap",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "ENDR_STB_UVEDTAK",
+			"Navn": "Innvilget norsk statsborgerskap.  Ingen vedtak registrert i NIR",
+			"Beskrivelse": "Innvilget norsk statsborgerskap.  Ingen vedtak registrert i NIR",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "ENDR_POT",
+			"Navn": "Innvilget permanent oppholdstillatelse",
+			"Beskrivelse": "Person har fått permanent opphold",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "ENDR_IKKEIKAT",
+			"Navn": "Ikke lenger i kategori",
+			"Beskrivelse": "Ikke lenger i kategori",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "ENDR_FLYTT_UTLAND",
+			"Navn": "Ikke gjeldende adresse i Norge",
+			"Beskrivelse": "Ikke gjeldende adresse i Norge",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "ENDR_FULLFORT_ORDNINGER",
+			"Navn": "Fullført alle ordninger for kategori",
+			"Beskrivelse": "Fullført alle ordninger for kategori",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 2,
+			"Kode": "ENDR_IKKE_FULLFORT_ORDNINGER",
+			"Navn": "Ikke fullført alle ordninger for kategori",
+			"Beskrivelse": "Ikke fullført alle ordninger for kategori",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 3,
+			"Kode": "NORSKMAL",
+			"Navn": "Norsk med norskmål",
+			"Beskrivelse": "Opplæring i norsk med norskmål",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 3,
+			"Kode": "NORSK250",
+			"Navn": "Norsk 250 t/norskmål",
+			"Beskrivelse": "Opplæring i norsk med begrensning på 250 timer",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 3,
+			"Kode": "SAMFUNNSKUNNSKAP",
+			"Navn": "Samfunnskunnskap",
+			"Beskrivelse": "Opplæring i samfunnskunnskap ",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 3,
+			"Kode": "INTRO",
+			"Navn": "Introduksjonsprogram",
+			"Beskrivelse": "Introduksjonsprogram med sluttmål",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 3,
+			"Kode": "NORSKASYL",
+			"Navn": "Norsk for asylsøkere",
+			"Beskrivelse": "Norskopplæring i asylmottak",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 3,
+			"Kode": "SAMFASYL",
+			"Navn": "Samfunnskunnskap for asylsøkere",
+			"Beskrivelse": "Opplæring i samfunnskunnskap i asylmottak",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 3,
+			"Kode": "KVALMOT",
+			"Navn": "Kvalifisering for mottaksbeboere",
+			"Beskrivelse": "Kvalifiseringstiltak for mottaksbeboere",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 4,
+			"Kode": "FRIST_OPPSTART",
+			"Navn": "Frist for oppstart",
+			"Beskrivelse": "Frist for oppstart av ordningen",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 4,
+			"Kode": "FRIST_GJENFOR",
+			"Navn": "Frist for gjennomføring",
+			"Beskrivelse": "Frist for gjennomføring av ordningen",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "NORSKMAL",
+			"Navn": "Norskmål",
+			"Beskrivelse": "Norskmål",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "NORSK250_MAL",
+			"Navn": "Norsk 250 timemål",
+			"Beskrivelse": "Norsk 250 timemål",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SAMFUNNSKUNNSKAP_MAL",
+			"Navn": "Samfunnskunnskap timemål",
+			"Beskrivelse": "Samfunnskunnskap timemål",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SAMFUNNSKUNNSKAP_PROVE",
+			"Navn": "Samfunnskunnskap prøvemål",
+			"Beskrivelse": "Samfunnskunnskap prøvemål",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SLUTTMAL",
+			"Navn": "Sluttmål",
+			"Beskrivelse": "Intro sluttmål",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "NORSKASYL_MAL",
+			"Navn": "Norsk for asylsøkere timemål",
+			"Beskrivelse": "Norsk for asylsøkere timemål",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SAMFASYL_MAL",
+			"Navn": "Samfunnskunnskapfor asylsøkere timemål",
+			"Beskrivelse": "Samfunskunnskap for asylsøkere timemål",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "NORSKMAL_LESE",
+			"Navn": "Lese",
+			"Beskrivelse": "Norsk lese",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "NORSKMAL_LYTTE",
+			"Navn": "Lytte",
+			"Beskrivelse": "Norsk lytte",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "NORSKMAL_SKRIVE",
+			"Navn": "Skrive",
+			"Beskrivelse": "Norsk skrive",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "NORSKMAL_MUNTLIG",
+			"Navn": "Muntlig",
+			"Beskrivelse": "Norsk muntlig",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SLUTTMAL_HOYERE_UTDANNING",
+			"Navn": "Høyere utdanning - person har utdanning på videregående nivå fra før",
+			"Beskrivelse": "Sluttmål Høyere utdanning - person har utdanning på videregående nivå fra før",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SLUTTMAL_ARBEID_MED_VGS_FRA_FOR",
+			"Navn": "Arbeid - person har utdanning på videregående nivå fra før",
+			"Beskrivelse": "Sluttmål Arbeid - person har utdanning på videregående nivå fra før",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SLUTTMAL_FULLFORT_VGS_UNDER_25",
+			"Navn": "Fullføre videregående opplæring - under 25 år",
+			"Beskrivelse": "Sluttmål Fullføre videregående opplæring - under 25 år",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SLUTTMAL_FULLFORT_VGS_OVER_25",
+			"Navn": "Fullføre videregående opplæring - over 25 år",
+			"Beskrivelse": "Sluttmål Fullføre videregående opplæring - over 25 år",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SLUTTMAL_ARBEID_UTEN_VGS",
+			"Navn": "Arbeid - person har ikke utdanning på videregående nivå fra før",
+			"Beskrivelse": "Sluttmål arbeid",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SLUTTMAL_FULLFORT_GRUNNSKOLE",
+			"Navn": "Fullføre grunnskole",
+			"Beskrivelse": "Sluttmål Fullføre grunnskole",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SLUTTMAL_DELER_VGS",
+			"Navn": "Fullføre deler av videregående opplæring",
+			"Beskrivelse": "Sluttmål Fullføre deler av videregående opplæring",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 5,
+			"Kode": "SLUTTMAL_DELER_GRUNNSKOLE",
+			"Navn": "Fullføre deler av grunnskole",
+			"Beskrivelse": "Sluttmål Fullføre deler av grunnskole",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "ANNET",
+			"Navn": "Annet",
+			"Beskrivelse": "Annet"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "ATFERD",
+			"Navn": "Grunnet atferd",
+			"Beskrivelse": "Grunnet atferd"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "HELSE",
+			"Navn": "Helsemessige årsaker",
+			"Beskrivelse": "Helsemessige årsaker"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "OMF_U_FRAVAR",
+			"Navn": "Omfattende ugyldig fravær",
+			"Beskrivelse": "Omfattende ugyldig fravær"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "MAL_OPPNADD",
+			"Navn": "Programmål oppnådd",
+			"Beskrivelse": "Programmål oppnådd"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "HOVELIG_ARB",
+			"Navn": "Tilbud om høvelig arbeid",
+			"Beskrivelse": "Tilbud om høvelig arbeid"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_23_A",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav a",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav a"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_23_B",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav b",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav b"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_23_C",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav c",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav c"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_23_D",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav d",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav d"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_23_E",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav e",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav e"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_23_F",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav f",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav f"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_23_G",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav g",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 23 første ledd bokstav g"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "HELSE_TUNGTVEIENDE_25",
+			"Navn": "Særlige helsemessige eller andre tungtveiende årsaker, jf. integreringsforskriften § 25",
+			"Beskrivelse": "Særlige helsemessige eller andre tungtveiende årsaker, jf. integreringsforskriften § 25"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_36_23_A",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav a",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav a"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_36_23_B",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav b",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav b"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_36_23_C",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav c",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav c"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_36_23_D",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav d",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav d"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_36_23_E",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav e",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav e"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_36_23_F",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav f",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav f"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_NORSK_SAMISK_36_23_G",
+			"Navn": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav g",
+			"Beskrivelse": "Dokumenterte kunnskaper i norsk eller samisk, jf. integreringsforskriften § 36, jf.  § 23 første ledd bokstav g"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_24_A",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav a",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav a"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_24_B",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav b",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav b"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_24_C",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav c",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav c"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_24_D",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav d",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav d"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_24_E",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav e",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 24 første ledd bokstav e"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_36_24_A",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav a",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav a"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_36_24_B",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav b",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav b"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_36_24_C",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav c",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav c"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_36_24_D",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav d",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav d"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "DOK_SAMF_36_24_E",
+			"Navn": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav e",
+			"Beskrivelse": "Dokumenterte kunnskaper i samfunnskunnskap, jf. integreringsforskriften § 36, jf. 24 første ledd bokstav e"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "HELSE_TUNGTVEIENDE_1",
+			"Navn": "Særlige helsemessige eller andre tungtveiende årsaker, jf. integreringsforskriften § 1 annet ledd",
+			"Beskrivelse": "Særlige helsemessige eller andre tungtveiende årsaker, jf. integreringsforskriften § 1 annet ledd"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "GRUNNSKOLE_VGS_1",
+			"Navn": "Grunnskole eller videregående opplæring, jf. integreringsforskriften § 1 tredje ledd",
+			"Beskrivelse": "Grunnskole eller videregående opplæring, jf. integreringsforskriften § 1 tredje ledd"
+		}, {
+			"Kodeverk": 6,
+			"Kode": "HELSE_TUNGTVEIENDE_2",
+			"Navn": "Særlige helsemessige eller andre tungtveiende årsaker, jf. integreringsforskriften § 2 annet ledd",
+			"Beskrivelse": "Særlige helsemessige eller andre tungtveiende årsaker, jf. integreringsforskriften § 2 annet ledd"
+		}, {
+			"Kodeverk": 7,
+			"Kode": "UKE",
+			"Navn": "Uke",
+			"Beskrivelse": "Timeføring per uke",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 7,
+			"Kode": "MND",
+			"Navn": "Måned",
+			"Beskrivelse": "Timeføring per måned",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "NORSKASYLTIMER",
+			"Navn": "Norsktimer asylmottak",
+			"Beskrivelse": "Timer norsk i asylmottak",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "SAMFASYLTIMER",
+			"Navn": "Samfunnskunnskaptimer asylmottak",
+			"Beskrivelse": "Timer samfunnskunnskap i asylmottak",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "NORSKTIMER",
+			"Navn": "Norsk",
+			"Beskrivelse": "Timer norsk",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "SAMFTIMER",
+			"Navn": "Samfunnskunnskap",
+			"Beskrivelse": "Timer samfunnskunnskap",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "G_FRAVAR",
+			"Navn": "Gyldig fravær",
+			"Beskrivelse": "Gyldig fravær",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "U_FRAVAR",
+			"Navn": "Ugyldig fravær",
+			"Beskrivelse": "Ugyldig fravær",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "ANNET_G_FRAVAR",
+			"Navn": "Annet gyldig fravær",
+			"Beskrivelse": "Annet gyldig fravær",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "KORT_FRAVAR",
+			"Navn": "Kortvarig fravær",
+			"Beskrivelse": "Kortvarig fravær",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "FERIE",
+			"Navn": "Ferie",
+			"Beskrivelse": "Ferie",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "HOYTID",
+			"Navn": "Høytidsdag",
+			"Beskrivelse": "Høytidsdag",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "MNGL_ANNET_TILB",
+			"Navn": "Fravær etter endt f.permisjon -mangl. annen tilbud",
+			"Beskrivelse": "Fravær etter endt fødselspermisjon grunnet manglende annen tilbud",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "MNGL_BARNEPASS",
+			"Navn": "Fravær etter endt f.perm. -mangl. barnepass",
+			"Beskrivelse": "Fravær etter endt fødselspermisjon grunnet manglende barnepass",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "EGENM",
+			"Navn": "Egenmelding",
+			"Beskrivelse": "Egenmelding",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "EGENMB",
+			"Navn": "Egenmelding - barn",
+			"Beskrivelse": "Egenmelding – barn",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 8,
+			"Kode": "GYLDIG_F_BARN",
+			"Navn": "Gyldig fravær - barn",
+			"Beskrivelse": "Gyldig fravær – barn",
+			"GyldigFraDato": "2020-12-15T00:00:00"
+		}, {
+			"Kodeverk": 9,
+			"Kode": "KONTAKT",
+			"Navn": "Registrer kontakt med person",
+			"Beskrivelse": "Kontakt registrert",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 9,
+			"Kode": "KRAVSOK",
+			"Navn": "Registrer krav/søknad fra person",
+			"Beskrivelse": "Krav/søknad fra person mottatt",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 9,
+			"Kode": "KRAVSOK_UTSATT",
+			"Navn": "Registrer krav/søknad om utsatt oppstart",
+			"Beskrivelse": "Krav om utsatt start av opplæring i norsk/samfunnskunnskap",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 9,
+			"Kode": "KRAVSOK_NORSK",
+			"Navn": "Registrer krav/søknad om norskopplæring",
+			"Beskrivelse": "Søknad om norskopplæring",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 9,
+			"Kode": "AVVIST_PROGRAM",
+			"Navn": "Registrer person har avvist program",
+			"Beskrivelse": "Person har avvist program",
+			"GyldigFraDato": "2021-01-01T00:00:00"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "ANNET",
+			"Navn": "Annet",
+			"Beskrivelse": "Avslutningsårsaker som ikke dekkes av de andre kategoriene"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "ANNET_TILTAK",
+			"Navn": "Arbeidssøker på tiltak i regi av andre enn NAV",
+			"Beskrivelse": "Deltakere som ved avslutning av program har en kvalifiserende hovedbeskjeftigelse i regi av enten kommunen, private eller frivillige tilbydere"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "ARB",
+			"Navn": "Arbeid",
+			"Beskrivelse": "Fast eller midlertidig arbeid med opp til 48 timer per uke. Registrer antall timer pr. uke for arbeidsforholdet/ene. Kombinasjonsløp med arbeid og utdanning f.eks lærerkandidatordning"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "DOD",
+			"Navn": "Død",
+			"Beskrivelse": "Deltakeren er død"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "FLYTTET",
+			"Navn": "Flyttet",
+			"Beskrivelse": "Deltaker har flyttet til annen kommune"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "IKKE_ARBSOK",
+			"Navn": "Ikke arbeidssøker",
+			"Beskrivelse": "Benyttes når deltaker ikke er arbeidssøker etter avsluttet program og ikke har offentlige ytelser som inntektskilde. Det er egen kategori for hjemmeværende med barn"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "IKKE_REGARSAK",
+			"Navn": "Ikke registrert sluttårsak",
+			"Beskrivelse": "Ingen sluttårsak er registrert"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "MISTET_RETT",
+			"Navn": "Mistet rett til intro",
+			"Beskrivelse": "Oppholdsstatusen til deltaker har endret seg slik at deltaker har mistet rettigheten til introduksjonsprogram. Vil fremkomme i kategorioversikt i personmappe, fane Grunndata"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "NAV_KVP",
+			"Navn": "Arbeidssøker på KVP (NAV)",
+			"Beskrivelse": "Deltaker som går over til kvalifiseringsprogram"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "NAV_LONNTISK",
+			"Navn": "Arbeidssøker på lønnstilskudd (NAV)",
+			"Beskrivelse": "Deltaker som går over til NAVs ordning med tidsbegrenset lønnstilskudd"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "NAV_TILTAK",
+			"Navn": "Arbeidssøker på andre tiltak i regi av NAV",
+			"Beskrivelse": "Deltaker som går over til andre tiltak i regi av NAV"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "OPPL_GRSKOLE",
+			"Navn": "Ordinær opplæring - grunnskole",
+			"Beskrivelse": "Grunnskoleopplæring for voksne. Grunnskole er ikke å anse som \"ordinær utdanning\""
+		}, {
+			"Kodeverk": 10,
+			"Kode": "OPPL_HOYUTD",
+			"Navn": "Ordinær utdanning - høyere utdanning",
+			"Beskrivelse": "Høyskole eller universitet"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "OPPL_VGS",
+			"Navn": "Ordinær utdanning - videregående skole",
+			"Beskrivelse": "Ordinær videregående skole"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "SOS_STONAD",
+			"Navn": "På sosial stønad",
+			"Beskrivelse": "Passiv sosial stønad som inntektskilde når deltaker avslutter etter gjennomført program og ikke går over til aktiviteter som dekkes av andre avslutningskategorier"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "TRYGD",
+			"Navn": "På andre trygdeytelser",
+			"Beskrivelse": "Trygdeytelser som hovedinntektskilde"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "UKJENT",
+			"Navn": "Ukjent",
+			"Beskrivelse": "Deltaker har av forsvunnet fra programmet"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "OMSORG_0_1",
+			"Navn": "Hjemmeværende med omsorg for barn 0-1 år",
+			"Beskrivelse": "Deltager som ikke går til annen aktivitet grunnet omsorg for barn under 1 år"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "OMSORG_1_3",
+			"Navn": "Hjemmeværende med omsorg for barn 1-3 år",
+			"Beskrivelse": "Deltager som ikke går til annen aktivitet grunnet omsorg for barn mellom 1 og 3 år"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "ATFERD",
+			"Navn": "Adferd i/utenfor programmet",
+			"Beskrivelse": "Deltager som avsluttes ved vedtak grunnet adferd jf. introduksjonslovens § 7"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "HELSE",
+			"Navn": "Helsemessige årsaker",
+			"Beskrivelse": "Deltager som avsluttes ved vedtak grunnet helsemessige årsaker jf. introduksjonslovens § 7"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "FORSOERGET",
+			"Navn": "Ikke arbeidssøker - forsørget",
+			"Beskrivelse": "Ikke arbeidssøker - forsørget"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "SOSTRYGD",
+			"Navn": "Ikke arbeidssøker - sosialkontoret/trygd",
+			"Beskrivelse": "Ikke arbeidssøker - sosialkontoret/trygd"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "INGEN",
+			"Navn": "Ingen aktivitet",
+			"Beskrivelse": "Ingen aktivitet"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "UTDANN",
+			"Navn": "Utdanning",
+			"Beskrivelse": "Utdanning - kode benyttet i gamle NIR og av WS"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "IKKE_KAT",
+			"Navn": "Ikke lenger i kategori",
+			"Beskrivelse": "Ikke lenger i kategori"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "UTGATT_FRIST",
+			"Navn": "Utgått frist",
+			"Beskrivelse": "Utgått frist"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "FRITATT_PLIKT",
+			"Navn": "Fritatt fra plikt",
+			"Beskrivelse": "Fritatt fra plikt"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "FRITATT_PROVE",
+			"Navn": "Fritatt fra avsluttende prøve",
+			"Beskrivelse": "Fritatt fra avsluttende prøve"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "UTVIST",
+			"Navn": "Utvist",
+			"Beskrivelse": "Utvist"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "IKKE_FORNYET",
+			"Navn": "Ikke fornyet tillatelse",
+			"Beskrivelse": "Ikke fornyet tillatelse"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "MAL_OPPNADD",
+			"Navn": "Mål oppnådd",
+			"Beskrivelse": "Mål oppnådd"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "OMF_U_FRAVAR",
+			"Navn": "Omfattende ugyldig fravær",
+			"Beskrivelse": "Omfattende ugyldig fravær"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "HYPPIG_VED_FRA",
+			"Navn": "Grunnet hyppig og vedvarende fravær",
+			"Beskrivelse": "Grunnet hyppig og vedvarende fravær"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "FLYTTET_UTLAND",
+			"Navn": "Personen har flyttet til utlandet",
+			"Beskrivelse": "Personen har flyttet til utlandet"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "AVVIST_PROGRAM",
+			"Navn": "Registrer person har avvist program",
+			"Beskrivelse": "Person har avvist program"
+		}, {
+			"Kodeverk": 10,
+			"Kode": "PERMANENT_STANS",
+			"Navn": "Vedtak om permanent stans er registrert.",
+			"Beskrivelse": "Vedtak om permanent stans er registrert."
+		}, {
+			"Kodeverk": 11,
+			"Kode": "STANS",
+			"Navn": "Stans",
+			"Beskrivelse": "Stans"
+		}, {
+			"Kodeverk": 11,
+			"Kode": "AVBRUDD",
+			"Navn": "Avbrutt",
+			"Beskrivelse": "Avbrutt"
+		}, {
+			"Kodeverk": 11,
+			"Kode": "ORD_AVSL",
+			"Navn": "Ordinær avslutning",
+			"Beskrivelse": "Ordinær avslutning"
+		}, {
+			"Kodeverk": 12,
+			"Kode": "TILTAK_NORSAM",
+			"Navn": "Opplæring i norsk og samfunnskunnskap",
+			"Beskrivelse": "Opplæring i norsk og samfunnskunnskap",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 12,
+			"Kode": "TILTAK_LIVSFOR",
+			"Navn": "Livsmestring og foreldreveiledning",
+			"Beskrivelse": "Livsmestring og foreldreveiledning",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 12,
+			"Kode": "TILTAK_ANDRE",
+			"Navn": "Andre integreringstiltak",
+			"Beskrivelse": "Andre integreringstiltak",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 12,
+			"Kode": "TILTAK_UTDANNING",
+			"Navn": "Utdanningsrettettede tiltak",
+			"Beskrivelse": "Utdanningsrettettede tiltak",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 12,
+			"Kode": "TILTAK_ARBEID",
+			"Navn": "Arbeidsrettede tiltak",
+			"Beskrivelse": "Arbeidsrettede tiltak",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "NORSAM_NORSKOPPL",
+			"Navn": "Norskopplæring",
+			"Beskrivelse": "Norskopplæring i henhold til læreplanen i norsk og samfunnskunnskap for voksne innvandrere.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "NORSAM_PRAKSIS",
+			"Navn": "Praksis med fokus på norskopplæring",
+			"Beskrivelse": "Praksis med hovedvekt på norskopplæring",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "NORSAM_SELVSTUDIUM",
+			"Navn": "Selvstudium",
+			"Beskrivelse": "Norsk og/eller samfunnskunnskap som selvstudium",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "NORSAM_SAMFOPPL",
+			"Navn": "Samfunnskunnskap",
+			"Beskrivelse": "Opplæring i samfunnskunnskap i henhold til læreplanen i norsk og samfunnskunnskap for voksne innvandrere.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "LIVSFOR_FORELDREVEIL",
+			"Navn": "Foreldreveiledning",
+			"Beskrivelse": "Foreldreveiledning er et obligatorisk element for deltakere som deltar i introduksjonsprogram etter integreringsloven, og som har barn under 18 år. Det er også obligatorisk for deltakere som venter barn i løpet av programperioden.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "LIVSFOR_LIVSMESTRING",
+			"Navn": "Livsmestring i et nytt land",
+			"Beskrivelse": "Livsmestring i et nytt land er et obligatorisk element for alle som deltar i introduksjonsprogram",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ANDRE_DIGKOMP",
+			"Navn": "Digital kompetanse",
+			"Beskrivelse": "Tiltaket omfatter opplæring som styrker deltakernes digitale kompetanse, eksempelvis datakurs. NB: Dersom opplæring i norsk og samfunnskunnskap gis som nettbasert opplæring, skal dette registreres som tiltak norskopplæring og/eller samfunnskunnskap, ikke digital kompetanse",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ANDRE_HELSEFREMMENDE",
+			"Navn": "Helsefremmende tiltak",
+			"Beskrivelse": "Tiltaket omfatter behandling og/eller annen fysisk aktivitet for å bedre deltakerens helse. I tillegg til behandling kan dette omfatte trening i programtiden som forebyggende tiltak, svømmeopplæring mm. Trening på fritiden som f.eks. fotballtrening/tur i skogen skal ikke registreres som tiltak i introduksjonsprogrammet",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ANDRE_TILBOMSORG",
+			"Navn": "Tilbud i omsorgspermisjon",
+			"Beskrivelse": "Tiltaket omfatter tilbud under omsorgspermisjon. Kommunen må krysse av for om personen har mottatt tilbud i løpet av omsorgspermisjonen. NB: Dersom personen har hatt norskopplæring, samfunnskunnskap eller øvrige tiltak i løpet av omsorgspermisjonen, skal disse i tillegg registreres under de aktuelle tiltakstypene for dette med antall timer per uke",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ANDRE_PERSOKONOMI",
+			"Navn": "Personlig økonomi",
+			"Beskrivelse": "Tiltaket omfatter alle kurs/opplæring om personlig økonomi",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ANDRE_NORSKTREN",
+			"Navn": "Norsktrening",
+			"Beskrivelse": "Tiltaket omfatter norsktrening som ikke er en del av den ordinære norskopplæringen i henhold til læreplanen i norsk og samfunnskunnskap. Dette kan eksempelvis omfatte språkkafé, leksehjelp og annen uformell norsktrening.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ANDRE_FRIVSEKTOR",
+			"Navn": "Tiltak i regi av frivillig sektor",
+			"Beskrivelse": "Omfatter tiltak i regi av frivillig sektor, eksempelvis flyktningguide, vennefamilie og lignende, samt øvrig nettverksbyggende tiltak. Norsktrening i regi av frivillig sektor skal registreres under tiltaket \"Norsktrening\"",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ANDRE_BARNFAM",
+			"Navn": "Tiltak knyttet til barn og familie",
+			"Beskrivelse": "Omfatter tiltak rettet mot barn og familie som ikke faller inn under foreldreveiledning, men som er nødvendig for å sikre helhetlig oppfølging for familier med store omsorgsforpliktelser",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ANDRE_ANNET",
+			"Navn": "Annet",
+			"Beskrivelse": "Tiltaket omfatter øvrige aktiviteter, som ikke hører inn under noen av de andre tiltakene. Skal kun brukes der det er strengt nødvendig.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ARBEID_PROGRAM",
+			"Navn": "Arbeid som del av programmet",
+			"Beskrivelse": "Ordinært arbeid som utgjør en del av introduksjonsprogrammet.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ARBEID_LONNSTILSK",
+			"Navn": "Arbeid med lønnstilskudd",
+			"Beskrivelse": "Arbeid med lønnstilskudd som utgjør en del av introduksjonsprogrammet.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ARBEID_PRAKSIS",
+			"Navn": "Praksis med fokus arbeid",
+			"Beskrivelse": "Praksis med hovedvekt på opplæring i yrke/fag.Kategorien omfatter også arbeidstrening som tiltak i regi av NAV i henhold til forskrift om arbeidsmarkedstiltak (tiltaksforskriften)",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ARBEID_OPPLENTREP",
+			"Navn": "Opplæring i entreprenørskap",
+			"Beskrivelse": "Omfatter tiltak som gir opplæring og veiledning til deltakere som ønsker å starte egen bedrift.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ARBEID_JOBBSOK",
+			"Navn": "Jobbsøkerkurs",
+			"Beskrivelse": "Omfatter jobbsøkerkurs i regi av kommunen, NAV, private aktører eller andre",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "ARBEID_BRANSJEKURS",
+			"Navn": "Korte bransjekurs",
+			"Beskrivelse": "Omfatter korte yrkes- og bransjerettede kurs i regi av kommunen, NAV, Fylkeskommunen eller andre aktører. Kategorien omfatter også arbeidsmarkedsopplæring i regi av NAV i henhold til forskrift om arbeidsmarkedstiltak (tiltaksforskriften)",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_UHNORSK",
+			"Navn": "Norskopplæring for universitets- og høyskolesektoren",
+			"Beskrivelse": "Norskopplæring til et nivå som kvalifiserer for studier ved universitet og høyskole",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_UHENGELSK",
+			"Navn": "Engelskopplæring for universitets- og høyskolesektoren",
+			"Beskrivelse": "Engelskopplæring til et nivå som kvalifiserer for studier ved universitet og høyskole",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_GSDEL",
+			"Navn": "Grunnskole deltid",
+			"Beskrivelse": "Enkeltfag på grunnskole nivå som del av introduksjonsprogrammet.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_VGSFAGDEL",
+			"Navn": "Videregående opplæring deltid - fag- og yrkesspesialisering",
+			"Beskrivelse": "Enkeltfag i videregående opplæring som del av introduksjonsprogrammet.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_GSFULL",
+			"Navn": "Grunnskole fulltid",
+			"Beskrivelse": "Opplæring på grunnskole nivå på fulltid. NB: deltakere som har fulltid grunnskole som sitt introduksjonsprogram følger fraværsreglementet i integreringsforskriften, ikke skoleåret. Kommunen må derfor tilby kvalifiserende tiltak som sørger for helårsprogram",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_VGSFAGFULL",
+			"Navn": "Videregående opplæring fulltid - fag- og yrkesspesialisering",
+			"Beskrivelse": "Opplæring på videregåendeskole nivå på fulltid. NB: deltakere som har fulltid videregående opplæring som sitt introduksjonsprogram følger fraværsreglementet i integreringsforskriften, ikke skoleåret. Kommunen må derfor tilby kvalifiserende tiltak som sørger for helårsprogram",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_GSVGSGODKJ",
+			"Navn": "Godkjenning av grunnskole- og videregående opplæring",
+			"Beskrivelse": "Godkjenning av grunnskoleopplæring og videregående opplæring. Det er fylkeskommunen som har ansvaret for dette.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_UHGODKJ",
+			"Navn": "Godkjenning av høyere utdanning",
+			"Beskrivelse": "Godkjenning av høyere utdanning på høyskole og universitetsnivå",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_FSGODKJ",
+			"Navn": "Godkjenning av høyere yrkesfaglig utdanning",
+			"Beskrivelse": "Godkjenning av høyere yrkesfaglig utdanning, eksempelvis fagskole",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_HNFAG",
+			"Navn": "Fag på høyere nivå",
+			"Beskrivelse": "Omfatter komplementerende utdanning for flyktninger/innvandrere, eksempelvis forkurs til opptak høyere utdanning",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_GSREALKOMP",
+			"Navn": "Realkompetansevurdering - grunnskole",
+			"Beskrivelse": "Realkompetansevurdering på grunnskole nivå. Det er kommunen som har ansvaret for dette.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_VGSREALKOMP",
+			"Navn": "Realkompetansevurdering - videregående opplæring",
+			"Beskrivelse": "Realkompetansevurdering på videregående skole nivå. Omfatter også yrkesutprøving. Det er fylkeskommunen som har ansvaret for dette.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_UHFAGREALKOMP",
+			"Navn": "Realkompetansevurdering for opptak eller fritak av fag i høyere utdanning",
+			"Beskrivelse": "Realkompetansevurdering for opptak eller fritak i høyere yrkesfaglig utdanning (fagskole), høyskole eller universitet. Vurderingene gjennomføres i den enkelte utdanningsinstitusjon",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_UHREALKOMP",
+			"Navn": "Realkompetansevurdering - høyere utdanning",
+			"Beskrivelse": "Realkompetansevurdering av fullført høyere utdanning.",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_VGSSTUDIEDEL",
+			"Navn": "Videregående opplæring deltid - studiespesialisering",
+			"Beskrivelse": "Enkeltfag i videregående opplæring som del av introduksjonsprogrammet",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 13,
+			"Kode": "UTDANNING_VGSSTUDIEFULL",
+			"Navn": "Videregående opplæring fulltid - studiespesialisering",
+			"Beskrivelse": "Opplæring på videregåendeskole nivå på fulltid. NB: deltakere som har fulltid videregående opplæring som sitt introduksjonsprogram følger fraværsreglementet i integreringsforskriften, ikke skoleåret. Kommunen må derfor tilby kvalifiserende tiltak som sørger for helårsprogram",
+			"GyldigFraDato": "2021-03-26T00:00:00"
+		}, {
+			"Kodeverk": 14,
+			"Kode": "INNVILG",
+			"Navn": "Innvilget",
+			"Beskrivelse": "Innvilget"
+		}, {
+			"Kodeverk": 14,
+			"Kode": "AVSLAG",
+			"Navn": "Avslått",
+			"Beskrivelse": "Avslått"
+		}, {
+			"Kodeverk": 14,
+			"Kode": "FATTET",
+			"Navn": "Vedtak fattet",
+			"Beskrivelse": "Vedtak fattet"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "MID_STANS",
+			"Navn": "Midlertidig stans",
+			"Beskrivelse": "Midlertidig stans"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "PERM_STANS",
+			"Navn": "Permanent stans",
+			"Beskrivelse": "Permanent stans"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "P_VELFERD",
+			"Navn": "Permisjon pga velferd",
+			"Beskrivelse": "Permisjon pga velferd"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "P_EGENSYKDOM",
+			"Navn": "Permisjon pga egen sykdom",
+			"Beskrivelse": "Permisjon pga egen sykdom"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "P_BARNSSYKDOM",
+			"Navn": "Permisjon pga barns sykdom",
+			"Beskrivelse": "Permisjon pga barns sykdom"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "P_FOD_ADOP",
+			"Navn": "Permisjon pga fødsel/adopsjon",
+			"Beskrivelse": "Permisjon pga fødsel/adopsjon"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "UTS_OPPSTART",
+			"Navn": "Utsatt oppstart av opplæring i norsk og samfunnskunnskap",
+			"Beskrivelse": "Utsatt oppstart av opplæring i norsk og samfunnskunnskap"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "VES_E_NORSKPLAN",
+			"Navn": "Vesentlig endring av norskplan",
+			"Beskrivelse": "Vesentlig endring av norskplan"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "INTROPROGRAM",
+			"Navn": "Deltakelse i introduksjonsprogram",
+			"Beskrivelse": "Deltakelse i introduksjonsprogram"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "TILB_STONAD",
+			"Navn": "Tilbakebetaling av stønad pga uriktige opplysninger",
+			"Beskrivelse": "Tilbakebetaling av stønad pga uriktige opplysninger"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "TREKK_STONAD",
+			"Navn": "Trekk i framtidig utbetaling pga for mye utbetalt stønad",
+			"Beskrivelse": "Trekk i framtidig utbetaling pga for mye utbetalt stønad"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "B_RETT_EGENM",
+			"Navn": "Bortfall av retten til å bruke egenmelding",
+			"Beskrivelse": "Bortfall av retten til å bruke egenmelding"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "UTVID_DELT",
+			"Navn": "Utvidet deltakelse i introduksjonsprogram",
+			"Beskrivelse": "Utvidet deltakelse i introduksjonsprogram"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "NORSK_PLAN",
+			"Navn": "Norskplan",
+			"Beskrivelse": "Norskplan"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "FRITAK_PROVE_NO",
+			"Navn": "Fritak fra plikt til avsluttende prøver i norsk",
+			"Beskrivelse": "Fritak fra plikt til avsluttende prøver i norsk"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "FRITAK_PROVE_SAM",
+			"Navn": "Fritak fra avsluttende prøve i samfunnskunnskap",
+			"Beskrivelse": "Fritak fra avsluttende prøve i samfunnskunnskap"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "FRITAK_PLIKT_NORSK",
+			"Navn": "Fritak fra plikt til opplæring i norsk",
+			"Beskrivelse": "Fritak fra plikt til opplæring i norsk"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "FRITAK_PLIKT_SAMF",
+			"Navn": "Fritak fra plikt til opplæring i samfunnskunnskap",
+			"Beskrivelse": "Fritak fra plikt til opplæring i samfunnskunnskap"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "FRITAK_PLIKT_NORSKASYL",
+			"Navn": "Fritak fra norskopplæring i mottak",
+			"Beskrivelse": "Fritak fra norskopplæring i mottak"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "FRITAK_PLIKT_SAMFASYL",
+			"Navn": "Fritak fra opplæring i samfunnskunnskap i mottak",
+			"Beskrivelse": "Fritak fra opplæring i samfunnskunnskap i mottak"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "INTEGRERINGSPLAN",
+			"Navn": "Integreringsplan",
+			"Beskrivelse": "Integreringsplan"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "VES_E_INTEGRERINGSPLAN",
+			"Navn": "Vesentlig endring av integreringsplan",
+			"Beskrivelse": "Vesentlig endring av integreringsplan"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "PLIKT_NORSAM",
+			"Navn": "Plikt til opplæring i norsk og samfunnskunnskap",
+			"Beskrivelse": "Plikt til opplæring i norsk og samfunnskunnskap"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "RP_NORSAM",
+			"Navn": "Rett og plikt til opplæring i norsk og samfunnskunnskap",
+			"Beskrivelse": "Rett og plikt til opplæring i norsk og samfunnskunnskap"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "RED_STONAD_YTELSER",
+			"Navn": "Reduksjon av stønad pga andre offentlige ytelser",
+			"Beskrivelse": "Reduksjon av stønad pga andre offentlige ytelser"
+		}, {
+			"Kodeverk": 15,
+			"Kode": "RED_STONAD_FRAVAR",
+			"Navn": "Reduksjon av stønad pga fravær",
+			"Beskrivelse": "Reduksjon av stønad pga fravær"
+		}
+	],
+	"Timestamp": "2021-04-22T12:51:50"
+}

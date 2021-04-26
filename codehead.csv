@@ -1,0 +1,173 @@
+@Version=3
+COH:GR,COH:NO,COH:NEWNO,COH:LABEL,COH:VALIDFROMDATE,COH:VALIDTODATE,COH:LOCKMODE,COH:SORTORDER,COH:EXTVALUE1,COH:VARIOUS,COH:UNLOCKLABEL,COH:UNLOCKVALIDFROMDATE,COH:UNLOCKVALIDTODATE,COH:UNLOCKTEKST,COH:UNLOCKVARIOUS
+-1,25020,0,"NIR - Ordningstype",0,0,1,2,"","",0,0,0,0,0
+25020,1,0,"Opplæring i norsk og samfunnskunnskap",0,0,3,0,"NORSK","Opplæring i norsk og samfunnskunnskap",0,0,0,0,0
+25020,2,0,"Introduksjonsordning",0,0,3,0,"INTRO","Introduksjonsordning",0,0,0,0,0
+25020,3,0,"Opplæring for asylsøkere",0,0,3,0,"ASYLNORSK","Opplæring for asylsøkere",0,0,0,0,0
+25020,11,0,"2021 - Norsk med norskmål",0,0,3,0,"NORSKMAL","Opplæring i norsk med norskmål",0,0,0,0,0
+25020,12,0,"2021 - Norsk 250 t/norskmål",0,0,3,0,"NORSK250","Opplæring i norsk med begrensning på 250 timer",0,0,0,0,0
+25020,13,0,"2021 - Samfunnskunnskap",0,0,3,0,"SAMFUNNSKUNNSKAP","Opplæring i samfunnskunnskap",0,0,0,0,0
+25020,14,0,"2021 - Introduksjonsordning",0,0,3,0,"INTRO","Introduksjonsprogram med sluttmål",0,0,0,0,0
+25020,15,0,"2021 - Norsk for asylsøkere",0,0,3,0,"NORSKASYL","Norskopplæring i asylmottak",0,0,0,0,0
+25020,16,0,"2021 - Samfunnskunnskap for asylsøkere",0,0,3,0,"SAMFASYL","Opplæring i samfunnskunnskap i asylmottak",0,0,0,0,0
+25020,17,0,"2021 - Kvalifisering for mottaksbeboere",0,0,3,0,"KVALMOT","Kvalifiseringstiltak for mottaksbeboere",0,0,0,0,0
+-1,25021,0,"NIR - Ordningsstatus",0,0,1,2,"","",0,0,0,0,0
+25021,1,0,"Avbrutt",0,0,3,0,"AVBRUTT","Avbrutt",0,0,0,0,0
+25021,2,0,"Avsluttet",0,0,3,0,"AVSLUTTET","Avsluttet",0,0,0,0,0
+25021,3,0,"Deltar i opplæring",0,0,3,0,"DELT_OPPL","Deltar i opplæring",0,0,0,0,0
+25021,4,0,"Flyttet",0,0,3,0,"FLYTTET","Flyttet",0,0,0,0,0
+25021,5,0,"Avvist",0,0,3,0,"AVVIST","Avvist",0,0,0,0,0
+25021,6,0,"Krav/søknad fra person mottatt",0,0,3,0,"MOTTATT","Krav/søknad fra person mottatt",0,0,0,0,0
+25021,7,0,"I permisjon",0,0,3,0,"PERM","I permisjon",0,0,0,0,0
+25021,8,0,"Kategori beregnet",0,0,3,0,"BEREGNET","Kategori beregnet",0,0,0,0,0
+25021,9,0,"Kategori endret",0,0,3,0,"ENDRET","Kategori endret",0,0,0,0,0
+25021,10,0,"Midlertidig stans",0,0,3,0,"MIDL_STANS","Midlertidig stans",0,0,0,0,0
+25021,11,0,"Permanent stans",0,0,3,0,"PERM_STANS","Permanent stans",0,0,0,0,0
+25021,12,0,"Person kontaktet",0,0,3,0,"KONTAKTET","Person kontaktet",0,0,0,0,0
+25021,13,0,"Takket nei",0,0,3,0,"TAKKNEI","Takket nei",0,0,0,0,0
+25021,14,0,"Utgått frist for rett (3 år)",0,0,3,0,"UTGÅTT_RETT","Utgått frist for rett (3 år)",0,0,0,0,0
+25021,15,0,"Utgått frist for behovsprøvd norskopplæring (5 år)",0,0,3,0,"UTGÅTT_BEHOV","Utgått frist for behovsprøvd norskopplæring (5 år)",0,0,0,0,0
+25021,16,0,"Vedtak fattet - utsatt oppstart",0,0,3,0,"UTSATT","Vedtak fattet - utsatt oppstart",0,0,0,0,0
+25021,17,0,"Vedtak fattet - avslått",0,0,3,0,"AVSLAG","Vedtak fattet - avslått",0,0,0,0,0
+25021,18,0,"Vedtak fattet - innvilget",0,0,3,0,"INNVILGET","Vedtak fattet - innvilget",0,0,0,0,0
+25021,19,0,"Deltar i ordning",0,0,3,0,"DELT_ORDN","Deltar i ordning",0,0,0,0,0
+25021,20,0,"Utgått",0,0,3,0,"UTGÅTT","Utgått",0,0,0,0,0
+25021,21,0,"Fritatt fra plikt",0,0,3,0,"FRITATT_PLIKT","Fritatt fra plikt",0,0,0,0,0
+25021,22,0,"Manglende oppfølging",0,0,3,0,"MANGL_OPPFOLGING","Manglende oppfølging",0,0,0,0,0
+-1,25022,0,"NIR - Kontakttype",0,0,1,2,"","",0,0,0,0,0
+25022,1,0,"Kontakt med person",0,0,3,0,"KONTAKT","Kontakt med person",0,0,0,0,0
+25022,2,0,"Krav/søknad fra person mottatt",0,0,3,0,"KRAVSOK","Krav/søknad fra person mottatt",0,0,0,0,0
+25022,3,0,"Krav mottatt",0,0,3,0,"KRAVMOTTATT","Krav mottatt",0,0,0,0,0
+25022,4,0,"Person takket nei",0,0,3,0,"TAKKETNEI","Person takket nei",0,0,0,0,0
+25022,11,0,"2021 - Registrer kontakt med person",0,0,3,0,"KONTAKT","Kontakt registrert",0,0,0,0,0
+25022,12,0,"2021 - Registrer krav/søknad fra person",0,0,3,0,"KRAVSOK","Krav/søknad fra person mottatt",0,0,0,0,0
+25022,13,0,"2021 - Registrer krav/søknad om utsatt oppstart",0,0,3,0,"KRAVSOK_UTSATT","Krav om utsatt start av opplæring i norsk/samfunnskunnskap",0,0,0,0,0
+25022,14,0,"2021 - Registrer krav/søknad om norskopplæring",0,0,3,0,"KRAVSOK_NORSK","Registrer krav/søknad om norskopplæring",0,0,0,0,0
+25022,15,0,"2021 - Registrer person har avvist program",0,0,3,0,"AVVIST_PROGRAM","Person har avvist program",0,0,0,0,0
+-1,25023,0,"NIR - Vedtaktype",0,0,1,2,"","",0,0,0,0,0
+25023,1,0,"Betaling for timer",0,0,3,0,"BET_TIMER","Betaling for timer",0,0,0,0,0
+25023,2,0,"Behovsprøvd norskopplæring",0,0,3,0,"BEH_NORSK","Behovsprøvd norskopplæring",0,0,0,0,0
+25023,3,0,"Fritak fra plikt til norsk/samfunnskunnskap",0,0,3,0,"FRITAK","Fritak fra plikt til norsk/samfunnskunnskap (gjelder for personer med første pot-givende oppholdsvedtak før 01.01.2016)",0,0,0,0,0
+25023,4,0,"Midlertidig stans",0,0,3,0,"MID_STANS","Midlertidig stans",0,0,0,0,0
+25023,5,0,"Permanent stans",0,0,3,0,"PERM_STANS","Permanent stans",0,0,0,0,0
+25023,6,0,"Permisjon - Velferd",0,0,3,0,"P_VELFERD","Permisjon - Velferd",0,0,0,0,0
+25023,7,0,"Permisjon - Egen sykdom",0,0,3,0,"P_EGENSYKDOM","Permisjon - Egen sykdom",0,0,0,0,0
+25023,8,0,"Permisjon - Barns sykdom",0,0,3,0,"P_BARNSSYKDOM","Permisjon - Barns sykdom",0,0,0,0,0
+25023,9,0,"Permisjon - Fødsel/adopsjon",0,0,3,0,"P_FOD_ADOP","Permisjon - Fødsel/adopsjon",0,0,0,0,0
+25023,10,0,"Utsatt start av opplæring i norsk/samfunnskunnskap",0,0,3,0,"UTS_OPPSTART","Utsatt start av opplæring i norsk/samfunnskunnskap",0,0,0,0,0
+25023,11,0,"Vesentlig endring av individuell plan",0,0,3,0,"VES_E_INDPLAN","Vesentlig endring av individuell plan",0,0,0,0,0
+25023,12,0,"Introprogram",0,0,3,0,"INTROPROGRAM","Introprogram",0,0,0,0,0
+25023,13,0,"Tilbakebetaling av stønad",0,0,3,0,"TILB_STONAD","Tilbakebetaling av stønad",0,0,0,0,0
+25023,14,0,"Refusjon av stønad",0,0,3,0,"REF_STONAD","Refusjon av stønad",0,0,0,0,0
+25023,15,0,"Trekk 50% stønad",0,0,3,0,"TREKK_STONAD","Trekk 50% stønad",0,0,0,0,0
+25023,16,0,"Bortfall av rett til egenmelding",0,0,3,0,"B_RETT_EGENM","Bortfall av rett til egenmelding",0,0,0,0,0
+25023,17,0,"Utvidet deltagelse i introduksjonsordning",0,0,3,0,"UTVID_DELT","Utvidet deltagelse i introduksjonsordning",0,0,0,0,0
+25023,18,0,"Rett til norsk/samfunnskunnskap",0,0,3,0,"RETT_NORSAM","Rett til norsk/samfunnskunnskap",0,0,0,0,0
+25023,19,0,"Plikt til norsk/samfunnskunnskap",0,0,3,0,"PLIKT_NORSAM","Plikt til norsk/samfunnskunnskap",0,0,0,0,0
+25023,20,0,"Rett og plikt til norsk/samfunnskunskap",0,0,3,0,"RP_NORSAM","Rett og plikt til norsk/samfunnskunskap",0,0,0,0,0
+25023,21,0,"Vedtak om individuell plan",0,0,3,0,"IND_PLAN","Vedtak om individuell plan",0,0,0,0,0
+25023,22,0,"Fritak fra plikt til avsl. prøve i norsk/samf.kunn",0,0,3,0,"FRITAK_PROVE_NOSAM","Fritak fra plikt til avsluttende prøve i norsk og samfunnskunnskap",0,0,0,0,0
+25023,23,0,"Fritak fra plikt til avsluttende prøve i norsk",0,0,3,0,"FRITAK_PROVE_NO","Fritak fra plikt til avsluttende prøve i norsk",0,0,0,0,0
+25023,24,0,"Fritak fra plikt til avsl. prøve i samf.kunn",0,0,3,0,"FRITAK_PROVE_SAM","Fritak fra plikt til avsluttende prøve i samfunnskunnskap",0,0,0,0,0
+25023,25,0,"Permisjon - Arbeid",0,0,3,0,"P_ARBEID","Permisjon - Arbeid",0,0,0,0,0
+25023,26,0,"Fritak fra plikt til norsk",0,0,3,0,"FRITAK_PLIKT_NORSK","Fritak fra plikt til norsk",0,0,0,0,0
+25023,27,0,"Fritak fra plikt til samfunnskunnskap",0,0,3,0,"FRITAK_PLIKT_SAMF","Fritak fra plikt til samfunnskunnskap",0,0,0,0,0
+25023,28,0,"Fritak fra plikt til asylnorsk",0,0,3,0,"FRITAK_PLIKT_ASYLNOR","Fritak fra plikt til asylnorsk",0,0,0,0,0
+25023,29,0,"Fritak fra plikt til norsk kultur og norske verdier",0,0,3,0,"FRITAK_PLIKT_NKNV","Fritak fra plikt til norsk kultur og norske verdier",0,0,0,0,0
+
+25023,51,0,"2021 - Midlertidig stans",0,0,3,0,"Midlertidig stans",0,0,0,0,0
+25023,52,0,"2021 - Permanent stans",0,0,3,0,"Permanent stans",0,0,0,0,0
+25023,53,0,"2021 - Permisjon pga velferd",0,0,3,0,"Permisjon pga velferd",0,0,0,0,0
+25023,54,0,"2021 - Permisjon pga egen sykdom",0,0,3,0,"Permisjon pga egen sykdom",0,0,0,0,0
+25023,55,0,"2021 - Permisjon pga barns sykdom",0,0,3,0,"Permisjon pga barns sykdom",0,0,0,0,0
+25023,56,0,"2021 - Permisjon pga fødsel/adopsjon",0,0,3,0,"Permisjon pga fødsel/adopsjon",0,0,0,0,0
+25023,57,0,"2021 - Utsatt oppstart av opplæring i norsk og samfunnskunnskap",0,0,3,0,"Utsatt oppstart av opplæring i norsk og samfunnskunnskap",0,0,0,0,0
+25023,58,0,"2021 - Vesentlig endring av norskplan",0,0,3,0,"Vesentlig endring av norskplan",0,0,0,0,0
+25023,59,0,"2021 - Deltakelse i introduksjonsprogram",0,0,3,0,"Deltakelse i introduksjonsprogram",0,0,0,0,0
+25023,60,0,"2021 - Tilbakebetaling av stønad pga uriktige opplysninger",0,0,3,0,"Tilbakebetaling av stønad pga uriktige opplysninger",0,0,0,0,0
+25023,61,0,"2021 - Trekk i framtidig utbetaling pga for mye utbetalt stønad",0,0,3,0,"Trekk i framtidig utbetaling pga for mye utbetalt stønad",0,0,0,0,0
+25023,62,0,"2021 - Bortfall av retten til å bruke egenmelding",0,0,3,0,"Bortfall av retten til å bruke egenmelding",0,0,0,0,0
+25023,63,0,"2021 - Utvidet deltakelse i introduksjonsprogram",0,0,3,0,"Utvidet deltakelse i introduksjonsprogram",0,0,0,0,0
+25023,64,0,"2021 - Norskplan",0,0,3,0,"Norskplan",0,0,0,0,0
+25023,65,0,"2021 - Fritak fra plikt til avsluttende prøver i norsk",0,0,3,0,"Fritak fra plikt til avsluttende prøver i norsk",0,0,0,0,0
+25023,66,0,"2021 - Fritak fra avsluttende prøve i samfunnskunnskap",0,0,3,0,"Fritak fra avsluttende prøve i samfunnskunnskap",0,0,0,0,0
+25023,67,0,"2021 - Fritak fra plikt til opplæring i norsk",0,0,3,0,"Fritak fra plikt til opplæring i norsk",0,0,0,0,0
+25023,68,0,"2021 - Fritak fra plikt til opplæring i samfunnskunnskap",0,0,3,0,"Fritak fra plikt til opplæring i samfunnskunnskap",0,0,0,0,0
+25023,69,0,"2021 - Fritak fra norskopplæring i mottak",0,0,3,0,"Fritak fra norskopplæring i mottak",0,0,0,0,0
+25023,70,0,"2021 - Fritak fra opplæring i samfunnskunnskap i mottak",0,0,3,0,"Fritak fra opplæring i samfunnskunnskap i mottak",0,0,0,0,0
+25023,71,0,"2021 - Integreringsplan",0,0,3,0,"Integreringsplan",0,0,0,0,0
+25023,72,0,"2021 - Vesentlig endring av integreringsplan",0,0,3,0,"Vesentlig endring av integreringsplan",0,0,0,0,0
+25023,73,0,"2021 - Plikt til opplæring i norsk og samfunnskunnskap",0,0,3,0,"Plikt til opplæring i norsk og samfunnskunnskap",0,0,0,0,0
+25023,74,0,"2021 - Rett og plikt til opplæring i norsk og samfunnskunnskap",0,0,3,0,"Rett og plikt til opplæring i norsk og samfunnskunnskap",0,0,0,0,0
+25023,75,0,"2021 - Reduksjon av stønad pga andre offentlige ytelser",0,0,3,0,"Reduksjon av stønad pga andre offentlige ytelser",0,0,0,0,0
+25023,76,0,"2021 - Reduksjon av stønad pga fravær",0,0,3,0,"Reduksjon av stønad pga fravær",0,0,0,0,0
+
+-1,25024,0,"NIR - Begrunnelsetype",0,0,1,2,"","",0,0,0,0,0
+25024,1,0,"3 års frist for rett til gratis ordning utløpt",0,0,3,0,"3_AR_FRIST_UTLOPT","3 års frist for rett til gratis ordning er utløpt",0,0,0,0,0
+25024,2,0,"Andre tungtveiende årsaker",0,0,3,0,"ANDRE_TUNGTVEIENDE","Andre tungtveiende årsaker",0,0,0,0,0
+25024,3,0,"Annet",0,0,3,0,"ANNET","Annet",0,0,0,0,0
+25024,4,0,"Behov for videre ordning",0,0,3,0,"VIDERE_BEHOV","Behov for videre ordning",0,0,0,0,0
+25024,5,0,"Det foreligger ikke nødvendig dokumentasjon",0,0,3,0,"IKKE_NODV_DOK","Det foreligger ikke nødvendig dokumentasjon",0,0,0,0,0
+25024,6,0,"Det foreligger ikke tilstr. grunn for innvilgelse",0,0,3,0,"IKKE_TILST_GRUNN","Det foreligger ikke tilstrekkelig grunn for innvilgelse",0,0,0,0,0
+25024,7,0,"Grunnet atferd",0,0,3,0,"ATFERD","Grunnet atferd",0,0,0,0,0
+25024,8,0,"Grunnet hyppig og vedvarende fravær",0,0,3,0,"HYPPIG_VED_FRA","Grunnet hyppig og vedvarende fravær",0,0,0,0,0
+25024,9,0,"Grunnet udok. fravær fra deltakelse i ordning",0,0,3,0,"UDOK_FRAVAR","Grunnet udokumentert fravær fra deltakelse i ordning",0,0,0,0,0
+25024,10,0,"Helsemessige årsaker",0,0,3,0,"HELSE","Helsemessige årsaker",0,0,0,0,0
+25024,11,0,"Ikke behov for grunnleggende kvalifisering",0,0,3,0,"IKKE_BEHOV_KVAL","Ikke behov for grunnleggende kvalifisering",0,0,0,0,0
+25024,12,0,"Mangler tilstrekkelige kunnskaper i norsk/samisk",0,0,3,0,"MANG_TILST_KUNSKAP","Mangler tilstrekkelige kunnskaper i norsk/samisk",0,0,0,0,0
+25024,13,0,"Omfattende ugyldig fravær",0,0,3,0,"OMF_U_FRAVAR","Omfattende ugyldig fravær",0,0,0,0,0
+25024,14,0,"Programmål oppnådd",0,0,3,0,"MAL_OPPNAD","Programmål oppnådd",0,0,0,0,0
+25024,15,0,"Store omsorgsforpliktelser",0,0,3,0,"S_OMSORGFORP","Store omsorgsforpliktelser",0,0,0,0,0
+25024,16,0,"Tilbakeholdelse mot sin vilje",0,0,3,0,"MOT_SIN_VILJE","Tilbakeholdelse mot sin vilje",0,0,0,0,0
+25024,17,0,"Tilbud om høvelig arbeid",0,0,3,0,"HOVELIG_ARB","Tilbud om høvelig arbeid",0,0,0,0,0
+25024,18,0,"Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd",0,0,3,0,"TILST_NORSK_SAMISK","Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd",0,0,0,0,0
+25024,19,0,"Tilstrekkeliger norskkunnskaper",0,0,3,0,"TILST_NORSK","Tilstrekkeliger norskkunnskaper",0,0,0,0,0
+25024,20,0,"Ikke i kategori",0,0,3,0,"IKKEIKATEGORI","Ikke i kategori",0,0,0,0,0
+25024,21,0,"Ikke tilstrekkelig grunnlag for utvidelse",0,0,3,0,"IKKE_TILST_UTVID","Ikke tilstrekkelig grunnlag for utvidelse",0,0,0,0,0
+25024,22,0,"Ikke behov for grunn. kvalifisering (mål oppnådd)",0,0,3,0,"IKKE_KVAL_MAL_OPPN","Ikke behov for gr.leggende kvalifisering (mål er oppnådd)",0,0,0,0,0
+25024,23,0,"Arbeid",0,0,3,0,"ARBEID","Arbeid",0,0,0,0,0
+25024,24,0,"Tilstrekkelige kunnskaper i samfunnskunnskap jf. § 3 tredje ledd",0,0,3,0,"TILST_SAMF","Tilstrekkelige kunnskaper i samfunnskunnskap jf. § 3 tredje ledd",0,0,0,0,0
+25024,25,0,"Mangler tilstrekkelige kunnskaper i samf.kunnskap",0,0,3,0,"MANG_TILST_SAMF","Mangler tilstrekkelige kunnskaper i samfunnskunnskap",0,0,0,0,0
+25024,26,0,"Deltakelse i opplæring i norsk etter opplæringsloven jf. § 20 a tredje ledd",0,0,3,0,"DELTAKELSE_NORSK","Deltakelse i opplæring i norsk etter opplæringsloven jf. § 20 a tredje ledd",0,0,0,0,0
+25024,27,0,"Helsemessige eller andre tungtveiende grunner jf. § 20 a annet ledd",0,0,3,0,"HELSE_TUNGTVEIENDE_A","Helsemessige eller andre tungtveiende grunner jf. § 20 a annet ledd",0,0,0,0,0
+25024,28,0,"Tilstrekkelige kunnskaper i samfunnskunnskap jf. § 3 tredje ledd, bokstav c",0,0,3,0,"TILST_SAMF_C","Tilstrekkelige kunnskaper i samfunnskunnskap jf. § 3 tredje ledd, bokstav c",0,0,0,0,0
+25024,29,0,"Tilstrekkelige kunnskaper i samfunnskunnskap jf. § 3 tredje ledd, bokstav a",0,0,3,0,"TILST_SAMF_A","Tilstrekkelige kunnskaper i samfunnskunnskap jf. § 3 tredje ledd, bokstav a",0,0,0,0,0
+25024,30,0,"Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd, bokstav d",0,0,3,0,"TILST_NORSK_SAMISK_D","Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd, bokstav d",0,0,0,0,0
+25024,31,0,"Helsemessige og andre tungtveiende årsaker jf. § 4",0,0,3,0,"HELSE_TUNGTVEIE_OPPL","Helsemessige og andre tungtveiende årsaker jf. § 4",0,0,0,0,0
+25024,32,0,"Tilstrekkelige kunnskaper i samfunnskunnskap jf. § 3 tredje ledd, bokstav b",0,0,3,0,"TILST_SAMF_B","Tilstrekkelige kunnskaper i samfunnskunnskap jf. § 3 tredje ledd, bokstav b",0,0,0,0,0
+25024,33,0,"Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd, bokstav b",0,0,3,0,"TILST_NORSK_SAMISK_B","Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd, bokstav b",0,0,0,0,0
+25024,34,0,"Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd, bokstav a",0,0,3,0,"TILST_NORSK_SAMISK_A","Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd, bokstav a",0,0,0,0,0
+25024,35,0,"Helsemessige eller andre tungtveiende årsaker jf. § 20",0,0,3,0,"HELSE_TUNGTVE_PROVE","Helsemessige eller andre tungtveiende årsaker jf. § 20",0,0,0,0,0
+25024,36,0,"Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd, bokstav c",0,0,3,0,"TILST_NORSK_SAMISK_C","Tilstrekkelige kunnskaper i norsk eller samisk jf. § 3 annet ledd, bokstav c",0,0,0,0,0
+-1,25025,0,"NIR - Utfallstype",0,0,1,2,"","",0,0,0,0,0
+25025,1,0,"Innvilget",0,0,3,0,"INNVILG","Innvilget",0,0,0,0,0
+25025,2,0,"Avslått",0,0,3,0,"AVSLAG","Avslått",0,0,0,0,0
+25025,3,0,"Vedtak fattet",0,0,3,0,"FATTET","Vedtak fattet",0,0,0,0,0
+-1,25026,0,"NIR - Fraværstype",0,0,1,2,"","",0,0,0,0,0
+25026,1,0,"Deltatt",0,0,3,0,"DELTATT","Deltatte timer",0,0,0,0,0
+25026,2,0,"Gyldig fravær",0,0,3,0,"G_FRAVAR","Gyldig fravær",0,0,0,0,0
+25026,3,0,"Ugyldig fravær - Norsk",0,0,3,0,"U_FRAVAR_N","Ugyldig fravær",0,0,0,0,0
+25026,4,0,"Ugyldig fravær - Intro",0,0,3,0,"U_FRAVAR_I","Ugyldig fravær",0,0,0,0,0
+25026,5,0,"Annet gyldig fravær",0,0,3,0,"ANNET_G_FRAVAR","Annet gyldig fravær",0,0,0,0,0
+25026,6,0,"Kortvarig fravær",0,0,3,0,"KORT_FRAVÆR","Kortvarig fravær",0,0,0,0,0
+25026,7,0,"Ferie",0,0,3,0,"FERIE","Ferie",0,0,0,0,0
+25026,8,0,"Høytidsdag",0,0,3,0,"HØYTID","Høytidsdag",0,0,0,0,0
+25026,9,0,"Fravær etter endt f.permisjon -mangl. annen tilbud",0,0,3,0,"MNGL_ANNET_TILB","Fravær etter endt fødselspermisjon grunnet manglende annen tilbud",0,0,0,0,0
+25026,10,0,"Fravær etter endt f.perm. -mangl. barnepass",0,0,3,0,"MNGL_BARNEPASS","Fravær etter endt fødselspermisjon grunnet manglende barnepass",0,0,0,0,0
+25026,11,0,"Permisjon",0,0,3,0,"PERM","Permisjon",0,0,0,0,0
+25026,12,0,"Egenmelding",0,0,3,0,"EGENM","Egenmelding",0,0,0,0,0
+25026,13,0,"Egenmelding - barn",0,0,3,0,"EGENMB","Egenmelding - barn",0,0,0,0,0
+25026,14,0,"Gyldig fravær - barn",0,0,3,0,"GYLDIG_F_BARN","Gyldig fravær - barn",0,0,0,0,0
+25026,15,0,"Velferd",0,0,3,0,"VELFERD","Velferd",0,0,0,0,0
+25026,16,0,"Gyldig fravær",0,0,3,0,"INTRO_G_FRAVAR","Gyldig fravær",0,0,0,0,0
+-1,25027,0,"NIR - KategoriType",0,0,1,2,"","",0,0,0,0,0
+25027,1,0,"Rett til norsk/samf.kunnskap",0,0,3,0,"RNORSK","Rett til norsk/samf.kunnskap",0,0,0,0,0
+25027,2,0,"Plikt til norsk/samf.kunnskap",0,0,3,0,"PNORSK","Plikt til norsk/samf.kunnskap",0,0,0,0,0
+25027,3,0,"Asylnorsk",0,0,3,0,"ANORSK","Asylnorsk",0,0,0,0,0
+25027,4,0,"Rett og plikt til introduksjonsordning",0,0,3,0,"RPINTRO","Rett og plikt til introduksjonsordning",0,0,0,0,0
+25027,5,0,"Kan tilbys introduksjonsordning",0,0,3,0,"KINTRO","Kan tilbys introduksjonsordning",0,0,0,0,0
+25027,6,0,"Ukjent kategori norsk",0,0,3,0,"UKJENTNORSK","Ukjent kategori norsk",0,0,0,0,0
+25027,7,0,"Ukjent kategori intro",0,0,3,0,"UKJENTINTRO","Ukjent kategori intro",0,0,0,0,0
+25027,8,0,"Norsk kultur og norske verdier",0,0,3,0,"KULTUR","Norsk kultur og norske verdier",0,0,0,0,0
+25027,9,0,"Plikt til asylnorsk",0,0,3,0,"PANORSK","Plikt til asylnorsk",0,0,0,0,0
+25027,10,0,"Plikt til norsk kultur og norske verdier",0,0,3,0,"PKULTUR","Plikt til norsk kultur og norske verdier",0,0,0,0,0
